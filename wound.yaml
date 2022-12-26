@@ -1,0 +1,13 @@
+
+
+
+
+train: ../project/images/train 
+val: ../project/images/val 
+
+
+# Classes
+nc: 1  # number of classes
+names: ['Wounded']  # class names
+
+
